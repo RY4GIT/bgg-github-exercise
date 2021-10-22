@@ -1,0 +1,19 @@
+This is a sample text that contains bunch of grammar errors. 
+
+=========begin here===========
+
+ 	
+1. The main sources of energy in the world is fossil fuels - coal, oil and natural gas.
+2. Fossil fuels are non-renewable - this mean that nature cannot recreate them as fast as people using them up today.
+3. Sometime in the future, all of them run out and we will need other, renewable, sources of energy.
+4. Some renewable energy sources are being available now.
+5. One of them is water, what has been used to create energy for thousands of years.
+6. Today, hydro- or water power, generate by huge dams, is a major source of electricity in many parts of the world.
+7. But the hydropower have its own costs.
+8. When dams are building, the area above them is flooded, sometimes for miles.
+9. In some places, people loses their homes as well as the rich river soil in which they once growed their crops.
+10. In other places, wonderful wild landscapes buried forever under new, artificial lakes.
+11. Below the dams, the natural habitats of fish and wildlife in river valley is destroyed as the course of the river is changed. 
+
+
+============end here=============
